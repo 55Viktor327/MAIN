@@ -35,7 +35,7 @@
 | **Языки**          | Java (Core, Stream API, Multithreading) |
 | **Фреймворки**     | Spring (Boot, Data JPA, Security)       |
 | **Базы данных**    | PostgreSQL, MySQL                       |
-| **Инструменты**    | Git, Docker, Maven, IntelliJ IDEA       |
+| **Инструменты**    | Git, Docker, Maven, IntelliJ IDEA, Ansible       |
 | **В планах**       | Go, Kafka, Kubernetes                   |
 
 ### 📫 Связаться со мной
